@@ -1975,6 +1975,11 @@ expect@^25.3.0:
     jest-message-util "^25.3.0"
     jest-regex-util "^25.2.6"
 
+express-async-error@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/express-async-error/-/express-async-error-0.0.2.tgz#6a008690283b252100f41fb00a7496fc25d06bf3"
+  integrity sha1-agCGkCg7JSEA9B+wCnSW/CXQa/M=
+
 express-async-errors@^3.1.1:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/express-async-errors/-/express-async-errors-3.1.1.tgz#6053236d61d21ddef4892d6bd1d736889fc9da41"
